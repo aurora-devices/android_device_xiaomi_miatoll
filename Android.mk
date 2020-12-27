@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2020 The Project-Xtended
+# Copyright (C) 2020 TitaniumOS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
