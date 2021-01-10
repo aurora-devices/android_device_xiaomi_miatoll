@@ -8,7 +8,7 @@
 $(call inherit-product, device/xiaomi/miatoll/device.mk)
 
 # Inherit some common xtended stuff
-$(call inherit-product, vendor/xtended/config/common_full_phone.mk)
+$(call inherit-product, vendor/aurora/config/common_full_phone.mk)
 
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
