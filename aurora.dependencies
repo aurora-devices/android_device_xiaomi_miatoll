@@ -1,14 +1,17 @@
 [
   {
-    "repository": "kernel_xiaomi_sm6250",
-    "target_path": "kernel/xiaomi/sm6250"
+    "repository": "SonalSingh18/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "eleven"
   },
   {
-    "repository": "device_xiaomi_sm6250-common",
-    "target_path": "device/xiaomi/sm6250-common"
+    "repository": "SonalSingh18/device_xiaomi_sm6250-common",
+    "target_path": "device/xiaomi/sm6250-common",
+    "branch": "eleven"
   },
   {
-    "repository": "vendor_xiaomi_sm6250",
-    "target_path": "vendor/xiaomi"
+    "repository": "SonalSingh18/vendor_xiaomi_sm6250",
+    "target_path": "vendor/xiaomi",
+    "branch": "eleven"
   }
 ]
