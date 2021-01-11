@@ -5,9 +5,9 @@
     "branch": "eleven"
   },
   {
-    "repository": "SonalSingh18/device_xiaomi_sm6250-common",
+    "repository": "FraSharp/device_xiaomi_sm6250-common",
     "target_path": "device/xiaomi/sm6250-common",
-    "branch": "eleven"
+    "branch": "aurora"
   },
   {
     "repository": "SonalSingh18/vendor_xiaomi_sm6250",
